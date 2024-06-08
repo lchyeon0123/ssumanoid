@@ -1,13 +1,9 @@
 The robot motion exists as follows.  
 
 1. Walk forward and walk left and right
-   
 2. a left-right turn
-  
 3. Grabbing a milk pack
-   
 4. Raising the robot's arms
-   
 5. Going up and down the stairs
    
 
