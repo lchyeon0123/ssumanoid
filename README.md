@@ -1,5 +1,4 @@
-The robot motion exists as follows.  
-
+The robot motion exists as follows. :
 1. Walk forward and walk left and right
 2. a left-right turn
 3. Grabbing a milk pack
