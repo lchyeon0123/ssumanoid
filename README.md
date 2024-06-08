@@ -1,13 +1,10 @@
-The robot motion exists as follows.     
-
-
-'''
+The robot motion exists as follows :
 1. Walk forward and walk left and right
 2. a left-right turn
 3. Grabbing a milk pack
 4. Raising the robot's arms
 5. Going up and down the stairs
-'''  
+
 
 
 In the object search mode, the screen is divided into 9 compartments and then the object is determined. The position of the robot was controlled so that the object was located at 5 and 8.  
