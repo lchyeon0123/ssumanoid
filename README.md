@@ -4,5 +4,6 @@ In the object search mode, the screen is divided into 9 compartments and then th
 After finding the milk carton, I wrote a code to collect arms to hold the milk pack. It also went through the process of narrowing the arm spacing so that the robot can hold the milk pack harder. When holding the milk pack, the robot's head was coded down to check if it was out of danger zone.  
 
 
-The step was performed alternately by 1cm for the left foot step and 1cm for the right foot step. After climbing the stairs, the robot rings a bell on top of the robot's head.  
+The step was performed alternately by 1cm for the left foot step and 1cm for the right foot step.   
+After climbing the stairs, the robot rings a bell on top of the robot's head.  
 <img src="https://github.com/lchyeon0123/kairos_project/assets/99176235/ac4ce18e-a8fa-469a-aa38-3eff267f086c">
